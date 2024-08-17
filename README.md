@@ -1,0 +1,1 @@
+A project to demonstrate basic HTML proficiency based on theodinproject.org
